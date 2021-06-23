@@ -2027,7 +2027,7 @@ h1 {
 .header__phone-and-email {
   display: flex;
   flex-wrap: wrap-reverse;
-  width: 170px;
+  width: 201px;
   justify-content: space-between;
 }
 
@@ -2037,7 +2037,7 @@ h1 {
 .header__phone-number {
   float: right;
   position: relative;
-  left: 21px;
+  left: 51px;
   font-family: 'Montserrat', sans-serif;
   font-size: 20px;
   color: #fff;
